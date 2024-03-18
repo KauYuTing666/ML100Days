@@ -3,9 +3,9 @@
    
     [ ], loc, iloc
 # D5
-  Build DataFrame
+1. Build DataFrame
   
-  Read & Write File
+2. Read & Write File
     
     txt, json, npy, pickle, URL
 # D6
