@@ -1,5 +1,6 @@
 # D1
   numpy
+  
   matplotlib.pyplot
 # D4
   Getting Value 
