@@ -1,3 +1,6 @@
+# D1
+  numpy
+  matplotlib.pyplot
 # D4
   Getting Value 
    
@@ -10,4 +13,4 @@
     txt, json, npy, pickle, URL
 # D6
   提交
-  
+  0800688168
