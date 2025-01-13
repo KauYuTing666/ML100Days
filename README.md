@@ -12,6 +12,9 @@
 2. Read & Write File
     
     txt, json, npy, pickle, URL
+3. Read image
+
+     skimage.io,  PIL.Image, OpenCV 
 # D6
   提交
   0800688168
