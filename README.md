@@ -1,7 +1,5 @@
 # D1
-  numpy
-  
-  matplotlib.pyplot
+  numpy, matplotlib.pyplot
 # D4
   Getting Value 
    
@@ -14,7 +12,10 @@
     txt, json, npy, pickle, URL
 3. Read image
 
-     skimage.io,  PIL.Image, OpenCV 
+     skimage.io,  PIL.Image, OpenCV
+4. other
+
+   io
 # D6
   提交
-  0800688168
+  
