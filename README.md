@@ -17,5 +17,7 @@
 
    io
 # D6
-  提交
+  Label Encoding, One Hot Encoding
+# D7
+  pd.groupby(), pd.concat()
   
