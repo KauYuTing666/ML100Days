@@ -20,4 +20,6 @@
   Label Encoding, One Hot Encoding
 # D7
   pd.groupby(), pd.concat()
+# D8
+  matplotlib.pyplot
   
