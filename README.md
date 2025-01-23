@@ -22,4 +22,7 @@
   pd.groupby(), pd.concat()
 # D8
   matplotlib.pyplot
+# D9
+  1. outlier
+  2. ECDP(Empirical Cumulative Density Plot)
   
