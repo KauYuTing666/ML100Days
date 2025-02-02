@@ -26,7 +26,7 @@
   1. outlier
   2. ECDP(Empirical Cumulative Density Plot)
 # D10
-  Goal
+  1. Goal
     normalization, evaluate model
-  Tool
+  2. Tool
   
